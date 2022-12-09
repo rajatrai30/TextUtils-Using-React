@@ -1,9 +1,5 @@
 {
   "name": "csp_redux",
-  "engines": {
-    "node": "16.17.0",
-    "npm": "8.15.0"
-    },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
