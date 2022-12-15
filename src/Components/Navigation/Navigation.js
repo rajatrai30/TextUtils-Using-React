@@ -23,6 +23,9 @@ export default function Navigation(props) {
               <li className="nav-item">
                 <Link className="nav-link active" to="/about">About Us</Link>
               </li>
+              <li className="nav-item">
+                <a href="https://www.linkedin.com/in/rajat-rai-96298222b/" target="_blank" rel="noreferrer" className="nav-link active" style={{'fontWeight': 'bold'}} >Contact Developer</a>
+              </li>
             </ul>
 
 
